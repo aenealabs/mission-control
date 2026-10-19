@@ -149,4 +149,4 @@ open-source Brightlayer UI color and theme values (BSD-3-Clause). This is an ind
 
 ## License
 
-Copyright (c) 2026 aenealabs. All rights reserved.
+Released under the [MIT License](LICENSE).
