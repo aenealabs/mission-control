@@ -35,7 +35,7 @@ BAND_HTML = """<!doctype html><html><head>
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap"
       rel="stylesheet">
 <style>
-  html, body {{ margin: 0; width: {size}px; height: {size}px; background: #005eb8;
+  html, body {{ margin: 0; width: {size}px; height: {size}px; background: #6b7280;
                font-family: 'Open Sans', sans-serif; color: #fff; }}
   .top {{ height: {top}px; display: flex; flex-direction: column; justify-content: center;
           padding: 0 56px; box-sizing: border-box; }}
