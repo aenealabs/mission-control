@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.002 --> 00:00:12.991
+Mission Control · The decision layer for IT product ownership in engineering · Your enterprise already has the systems of record. · This is what sits on top of them.
+
+3
+00:00:15.152 --> 00:00:24.501
+Day 30: eight leadership interviews, synthesized. Code ranks the problems; every point traces to what people said.
+
+4
+00:00:24.501 --> 00:00:32.622
+It also shows where leaders disagree, so I resolve that before building.
+
+5
+00:00:32.622 --> 00:00:41.577
+The top complaint: engineering change is slow. Switch apps, same suite.
+
+7
+00:00:49.660 --> 00:00:56.147
+PLM Insight measures it: median 18.7 days, and 3 in 10 ECOs are sent back.
+
+8
+00:00:56.147 --> 00:01:06.027
+The AI reads 148 return comments and finds the causes. Code checks every cited ECO and quote, and does the counting.
+
+9
+00:01:06.027 --> 00:01:13.873
+The fix is a control in the process, not a reminder email. One click sends it to the backlog.
+
+11
+00:01:19.922 --> 00:01:29.125
+Rules find duplicate parts. The AI caught what my rules missed: these two have different export classifications.
+
+12
+00:01:29.125 --> 00:01:35.398
+So merging them is now Trade Compliance's call, not the data steward's.
+
+14
+00:01:37.075 --> 00:01:46.555
+Support Pilot groups 1,900 tickets into 14 recurring problems, without AI, and shows which have no article.
+
+16
+00:01:48.187 --> 00:01:59.462
+For a gap, the AI drafts the article from how agents actually resolved it, and lists what it doesn't know.
+
+18
+00:02:07.975 --> 00:02:16.997
+Asked something no article covers, it says so and writes the ticket, instead of guessing.
+
+20
+00:02:18.646 --> 00:02:29.349
+App Portfolio covers what we pay for. The AI reads each contract; code checks every quoted term, then works out the notice deadlines.
+
+21
+00:02:29.349 --> 00:02:35.837
+One renewal's notice window already closed; three more are due this month.
+
+23
+00:02:37.519 --> 00:02:47.008
+PartFinder: the PLM platform already does all of it, and 118 of 880 licensed people use it. Rules propose Eliminate.
+
+24
+00:02:47.008 --> 00:02:52.282
+Its licensed users come from Active Directory, read-only.
+
+25
+00:02:52.282 --> 00:03:00.413
+I decide; overriding the rules would need a reason. The retirement work goes to the same backlog.
+
+27
+00:03:10.101 --> 00:03:20.806
+Everything lands in one backlog: from interviews, ECO data, the help desk, and the portfolio, each with its evidence and a link back.
+
+29
+00:03:22.470 --> 00:03:30.576
+Status is computed by rules, and early warnings show the numbers behind them.
+
+31
+00:03:32.227 --> 00:03:42.787
+The weekly update says only what the data says: every number is checked against its source, and nothing is sent until I approve it.
+
+32
+00:03:42.787 --> 00:03:52.559
+Every screen explains itself, and the rules reference is generated from the code that runs the rules, so it can't drift.
+
+35
+00:04:07.001 --> 00:04:39.208
+What does Mission Control do that I can't already do with existing tools? · Connects the dots. One problem, from what people said to a cited update. · Shows its work. Code checks every AI claim before it is used. · Keeps people deciding. Overrides need a reason; every decision is recorded. · Explains itself. Built-in help, documented from the code. · Starts small. Reads exports and APIs; writes nothing to systems of record.
+
+36
+00:04:39.208 --> 00:04:50.053
+Mission Control · Backlog Pilot · Leadership Pilot · PLM Insight · Support Pilot · App Portfolio · Built by LaVon Rutledge · Aenea Labs
