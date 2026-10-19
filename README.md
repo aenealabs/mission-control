@@ -137,6 +137,7 @@ repositories checked out side by side (`~/mission-control-suite/<repo>`):
 ~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/record_mission_control_suite.py # the video
 ~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/check_captions.py <video.mp4>   # caption timing
 ~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/make_highlights.py             # README reel
+~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/make_social_clip.py            # square social clip
 ```
 
 `media/highlights.webp` is cut from the full video (see the reel's clip times in `scripts/make_highlights.py`); `media/mission-control-suite-demo-web.mp4` is a smaller copy for embedding.
