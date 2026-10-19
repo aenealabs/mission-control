@@ -13,11 +13,11 @@ update. Built by LaVon Rutledge.
 
 ## Watch the demo (4:50)
 
-[![Mission Control demo: one problem followed across the suite](media/poster.png)](media/mission-control-suite-demo.mp4)
+[![Highlights: ranked problems, why engineering changes come back, renewals at risk, one backlog, and built-in help](media/highlights.webp)](media/mission-control-suite-demo.mp4)
 
-[Watch the demo](media/mission-control-suite-demo.mp4) (4:50, captions on screen;
-[captions file](media/mission-control-suite-demo.vtt)). It runs entirely offline on fictional
-data, from recorded AI output.
+*Highlights (34 seconds).* [**Watch the full demo**](media/mission-control-suite-demo.mp4)
+(4:50, captions on screen; [captions file](media/mission-control-suite-demo.vtt)). It runs
+entirely offline on fictional data, from recorded AI output.
 
 ## The apps
 
@@ -136,9 +136,10 @@ repositories checked out side by side (`~/mission-control-suite/<repo>`):
 ~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/capture_screenshots.py          # docs/screenshots
 ~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/record_mission_control_suite.py # the video
 ~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/check_captions.py <video.mp4>   # caption timing
+~/mission-control-suite/backlog-pilot/.venv/bin/python scripts/make_highlights.py             # README reel
 ```
 
-`media/mission-control-suite-demo-web.mp4` is a smaller copy for embedding.
+`media/highlights.webp` is cut from the full video (see the reel's clip times in `scripts/make_highlights.py`); `media/mission-control-suite-demo-web.mp4` is a smaller copy for embedding.
 
 ## Data and branding
 
